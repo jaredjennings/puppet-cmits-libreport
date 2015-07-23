@@ -1,0 +1,12 @@
+{
+  "name": "jaredjennings/libreport",
+  "version": "0.1.0",
+  "author": "Jared Jennings",
+  "summary": "Provide the functionality of the libreport module from CMITS (boilerplate)",
+  "license": "Apache-2.0",
+  "source": "https://github.com/jaredjennings/puppet-cmits-libreport",
+  "project_page": "https://github.com/jaredjennings/puppet-cmits-libreport",
+  "issues_url": "https://github.com/jaredjennings/puppet-cmits-libreport/issues",
+  "dependencies": []
+}
+
